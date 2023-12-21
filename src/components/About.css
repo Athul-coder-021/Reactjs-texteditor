@@ -1,0 +1,15 @@
+/* About.css */
+.about-container {
+    position: relative;
+    width: 100%;
+    height: calc(100vh - 40px); /* Adjust the value based on your navbar height */
+    overflow: hidden;
+  }
+  
+  .about-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover no repeat;
+    object-position: center;
+  }
+  
